@@ -1,7 +1,6 @@
 #write your code here
 
-def countdown
-  count = 10
+def countdown(count)
   while count >= 0
     puts "#{count} SECONDS!"
     count -= 1
